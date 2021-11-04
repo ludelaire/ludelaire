@@ -1,6 +1,6 @@
 👋 Hi, Luisa here!  
 🦾 M.Sc. in Automation and Mechatronics engineer  
-🐍 I’m currently learning Python  
+🐍 Currently learning Python  
 👩‍💻 On my way to become a ML engineer  
 📫 linkedin.com/in/luisaalarcon  
 
